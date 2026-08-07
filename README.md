@@ -42,7 +42,6 @@ MSc Data Science graduate (Middlesex University, 2025) with a background most da
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
@@ -50,7 +49,7 @@ MSc Data Science graduate (Middlesex University, 2025) with a background most da
 **Skills & Concepts**
 - **ML & Analytics:** Predictive Modeling, Natural Language Processing (NLP), Large Language Models (LLMs), Multi-Layer Perceptron (MLP), Classification, Anomaly Detection, Statistics & Evaluation Metrics
 - **Data Engineering:** ETL, Data Pipelines, Data Structures & Algorithms
-- **GenAI:** RAG (Retrieval-Augmented Generation) Pipelines, Hybrid Retrieval (BM25 + Dense Embeddings), Vector Search (FAISS), LLM-powered applications, Prompt Engineering, GPT-4 / OpenAI API integration *(see [AskMyDocs](https://github.com/karannishchal/askmydocs) above)*
+- **GenAI:** RAG (Retrieval-Augmented Generation) Pipelines, Hybrid Retrieval (BM25 + Dense Embeddings), Vector Search (FAISS), LLM-powered applications, Prompt Engineering, Anthropic API integration *(see [AskMyDocs](https://github.com/karannishchal/askmydocs) above)*
 - **Monitoring:** Microsoft SCOM (System Center Operations Manager)
 
 ---
