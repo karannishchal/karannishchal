@@ -22,7 +22,7 @@ Data Scientist / ML Engineer based in **London** with **6+ years** across engine
 
 - 🔬 Interested in **data-centric AI**, LLM/RAG systems, and putting ML into production
 - 🌱 Currently deepening **MLOps** and applied **GenAI** work
-- 💬 Ask me about **label noise, retrieval evaluation, or model interpretability**
+- 💬 Ask me about **agentic AI, label noise, retrieval evaluation, or model interpretability**
 - 📫 Reach me via **[portfolio](https://karannishchal.netlify.app)** · **[LinkedIn](https://www.linkedin.com/in/karannishchal/)** · **karannishchal@gmail.com**
 
 ---
@@ -31,9 +31,10 @@ Data Scientist / ML Engineer based in **London** with **6+ years** across engine
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[WealthIn.AI](https://github.com/karannishchal/wealthin-ai)** <br/> ⭐ [**Live app →**](https://wealthin-ai.streamlit.app/) | An agentic investment-research assistant — it plans, calls tools (live market data, portfolio risk, RAG, news), and answers with citations. Guardrails, an evaluation harness, plus Docker, CI/CD and Kubernetes. | `LangGraph` `RAG (FAISS)` `FastAPI` `Docker` `Kubernetes` |
 | **[Data-Centric AI: Label Accuracy vs. Model Architecture](https://github.com/karannishchal/label-accuracy-vs-model-architecture)** <br/> ⭐ [**Live app →**](https://label-accuracy-vs-model-architecture-f2fwsopq2p3vuak7pk6xdc.streamlit.app/) | MSc dissertation — a full-factorial study showing cleaner labels beat fancier models for diabetes classification, with an interactive Streamlit explorer. | `scikit-learn` `XGBoost` `TensorFlow/Keras` `Streamlit` |
 | **[AskMyDocs](https://github.com/karannishchal/askmydocs)** | A RAG search system: BM25 + dense (FAISS) + hybrid (RRF) retrieval, offline Recall@k / MRR evaluation, and grounded, cited answers. | `Python` `FAISS` `sentence-transformers` `BM25` |
-| **[Bank Customer Churn Prediction](https://github.com/karannishchal/bank-customer-churn-prediction)** | End-to-end ML pipeline with model comparison, ROC-AUC evaluation, and threshold optimization. | `Python` `scikit-learn` `Jupyter` |
+| **[Bank Customer Churn Prediction](https://github.com/karannishchal/bank-customer-churn-prediction)** <br/> ⭐ [**Live app →**](https://bank-customer-churn-prediction-uv2fyjroluyxf6kestdqyn.streamlit.app/) | End-to-end ML pipeline with model comparison, ROC-AUC evaluation, and threshold optimization. | `Python` `scikit-learn` `Streamlit` |
 
 ---
 
@@ -47,10 +48,15 @@ Data Scientist / ML Engineer based in **London** with **6+ years** across engine
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 <br/>
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+<br/>
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
